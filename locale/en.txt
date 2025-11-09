@@ -1,0 +1,21 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_6ADDC3B3_663A_B6CC_41D4_E6F8D486F19A.label = 1.0
+panorama_6D3938FB_663A_B23C_41D4_BA944B0049C3.label = 1.1
+panorama_6CC58362_663A_D64C_41B1_66C8C3BE94BD.label = 1.2
+panorama_6D3A7333_663A_F7CC_41CD_95BDB0DF9F60.label = 10.0
+panorama_6CC5A859_663A_F27C_41D7_BFF7B55C139E.label = 10.1
+panorama_6D3A7E36_663A_EE34_41D2_E62D176D0E5F.label = 10.2
+panorama_6D3A48AB_663A_D2DC_41C2_BC7F6737F14B.label = 2.0
+panorama_6CC59DE1_663A_D24C_41D6_01457DCDC8C8.label = 2.1
+panorama_739E93A7_665A_76D4_41D2_A96C7CA5A017.label = bathroom
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Cabins
